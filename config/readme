@@ -1,0 +1,7 @@
+Create git repo in this folder
+
+git init
+git add client-app.yml
+git commit -m'Initial commit'
+
+Later you'll need to change values in client-app.yml and make git commit again.
